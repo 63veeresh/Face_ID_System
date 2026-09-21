@@ -1,0 +1,36 @@
+{
+  "enrolled": [
+    {
+      "name": "Alan_Turing",
+      "image": "C:\\Users\\ASUS\\Desktop\\face5\\data\\eval_set\\benchmark\\alan_turing_1.jpg"
+    },
+    {
+      "name": "Ada_Lovelace",
+      "image": "C:\\Users\\ASUS\\Desktop\\face5\\data\\eval_set\\benchmark\\ada_lovelace_1.jpg"
+    },
+    {
+      "name": "Grace_Hopper",
+      "image": "C:\\Users\\ASUS\\Desktop\\face5\\data\\eval_set\\benchmark\\grace_hopper_1.jpg"
+    }
+  ],
+  "genuine_test": [
+    {
+      "name": "Alan_Turing",
+      "image": "C:\\Users\\ASUS\\Desktop\\face5\\data\\eval_set\\benchmark\\alan_turing_2.jpg"
+    },
+    {
+      "name": "Grace_Hopper",
+      "image": "C:\\Users\\ASUS\\Desktop\\face5\\data\\eval_set\\benchmark\\grace_hopper_2.jpg"
+    }
+  ],
+  "impostor_test": [
+    {
+      "name": "Claude_Shannon",
+      "image": "C:\\Users\\ASUS\\Desktop\\face5\\data\\eval_set\\benchmark\\claude_shannon.jpg"
+    },
+    {
+      "name": "Nikola_Tesla",
+      "image": "C:\\Users\\ASUS\\Desktop\\face5\\data\\eval_set\\benchmark\\nikola_tesla.jpg"
+    }
+  ]
+}
